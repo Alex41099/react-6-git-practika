@@ -13,8 +13,12 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-                    Learn React
         </a>
+          <div>1</div>
+          <div>2</div>
+          <div>3</div>
+          <div>4</div>
+          <div>5</div>
       </header>
     </div>
   );
