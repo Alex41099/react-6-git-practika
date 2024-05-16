@@ -6,6 +6,9 @@ function App() {
       <header className="App-header">
         <p>
           Edit <code>src/App.js</code> and save to reload.
+          <div>1</div>
+          <div>2</div>
+          <div>3</div>
         </p>
         <a
           className="App-link2"
@@ -14,16 +17,6 @@ function App() {
           rel="noopener noreferrer"
         >
         </a>
-          <div>1</div>
-          <div>2</div>
-          <div>3</div>
-          <div>4</div>
-          <div>5</div>
-          <div>6</div>
-          <div>7</div>
-          <div>7</div>
-          <div>7</div>
-          <div>7</div>
       </header>
     </div>
   );
